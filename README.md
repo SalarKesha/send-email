@@ -24,3 +24,12 @@ email = Email(email_host, email_host_user, email_host_password)
 email.create_email_message(contacts, subject, content)
 email.send()
 ```
+To send Gmail:
+```python
+from send_email import Gmail
+gmail = Gmail(args)
+gmail.create_email_message(args)
+gmail.send()
+```
+
+
