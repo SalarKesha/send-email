@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: send-email
+Version: 0.3
+Summary: send email using smtplib
+Home-page: #
+Author: SalarKesha
+Author-email: keshavarzisalar@gmail.com
+License: MIT
