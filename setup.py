@@ -1,8 +1,8 @@
 from setuptools import setup
 
 setup(
-    name='send-email',
-    version='0.1',
+    name='send_email',
+    version='0.2',
     description='send email using smtplib',
     url='#',
     author='SalarKesha',
