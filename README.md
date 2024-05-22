@@ -27,7 +27,7 @@ email.send()
 To send Gmail:
 ```python
 from send_email import Gmail
-gmail = Gmail(args)
+gmail = Gmail(yourGmail, yourPassKey)
 gmail.create_email_message(args)
 gmail.send()
 ```
